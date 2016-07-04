@@ -1,6 +1,6 @@
 <?php namespace Linkthrow\Ffmpeg\Classes;
 
-use Config;
+use Illuminate\Support\Facades\Config;
 use Linkthrow\Ffmpeg\Helpers;
 
 /**
